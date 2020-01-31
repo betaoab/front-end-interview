@@ -18,7 +18,7 @@ Scope:
     - Symbol (e.g: `O`)
     - Atomic Number (e.g: `2`)
     - Name (e.g: `Oxygen`)
-* The design of the periodic table is entirely up to you. You can find hundreds of examples here: https://www.google.com/search?q=periodic+table
+* The design of the periodic table is entirely up to you. You can find hundreds of examples here: https://www.google.com/search?q=periodic+table&tbm=isch
 * We do not expect any interactions to be built around the periodic table.
 * We do not expect the periodic table to be responsive on mobile, but it should display all correctly on screens down to `1024x768`.
 * The table can be built using any language, library or framework that you consider relevant for the task. The only requirement is that the resulting application runs in any evergreen browser (Firefox, Chrome...). If the project needs additional libraries or compilation steps, it should contain a `package.json` file compatible with npm or yarn, with a clear build step.

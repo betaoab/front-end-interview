@@ -10,7 +10,8 @@ Below is a hand-drawn example of a periodic table.
 
 You have been provided a list of all known elements in the file `periodic-table-data.json`. The list provides each element's row (period), column (group), name, symbol, as well as some other data such as atomic weight or block.
 
-The task is to display a simple periodic table in the browser, using data from the provided file. The elements should be arranged by periods (rows) and groups (columns).
+The task is to display a simple periodic table in the browser, using data from the provided file. The elements should be arranged by periods (rows) and groups (columns). 
+With this task, we are looking to evaluate a candidate's general capability in front-end development, including data consumption and rendering, choice of relevant tools for the task, attention to design and understanding of broad requirements.
 
 Scope:
 * Each element's cell should display:
@@ -22,4 +23,5 @@ Scope:
 * We do not expect the periodic table to be responsive on mobile, but it should display all correctly on screens down to `1024x768`.
 * The table can be built using any language, library or framework that you consider relevant for the task. The only requirement is that the resulting application runs in any evergreen browser (Firefox, Chrome...). If the project needs additional libraries or compilation steps, it should contain a `package.json` file compatible with npm or yarn, with a clear build step.
 * In order to submit your work, please open a pull request in this repository, or email your compressed project at `solen@betao.se`
+* If you are time-constrained, any work-in-progress project can be submitted, and we will take it into account.
 * If you have any questions or concerns, please send a message to Solen (solen@betao.se) or call him at `+46736270944`

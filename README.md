@@ -1,1 +1,25 @@
-# front-end-interview
+# Betao Web front-end interview
+
+The periodic table is an arrangement of all known chemical elements, organized on the basis of their atomic numbers, electron configurations and recurring chemical properties. Elements are presented in order of increasing atomic number.
+
+A row of elements across the table is called a period. Each period has a number; from 1 to 8.
+A column of elements down the table is called a group. There are 18 groups in the standard periodic table. Each group has a number: from 1 to 18.
+
+Below is a hand-drawn example of a periodic table.
+![*Hand Drawn Periodic Table](https://i.imgur.com/KKv5ECk.png)
+
+You have been provided a list of all known elements in the file `periodic-table-data.json`. The list provides each element's row, column, name, symbol, as well as some other data such as atomic weight or group.
+
+The task is to display a simple periodic table in the browser, using data from the provided file. The elements should be arranged by periods (rows) and groups (columns).
+
+Scope:
+* Each element's cell should display:
+    - Symbol (e.g: `O`)
+    - Atomic Number (e.g: `2`)
+    - Name (e.g: `Oxygen`)
+* The design of the periodic table is entirely up to you. You can find hundreds of examples here: https://www.google.com/search?q=periodic+table
+* We do not expect any interactions to be built around the periodic table.
+* We do not expect the periodic table to be responsive on mobile, but it should display all correctly on screens down to `1024x768`.
+* The table can be built using any language, library or framework that you consider relevant for the task. The only requirement is that the resulting application runs in any evergreen browser (Firefox, Chrome...). If the project needs additional libraries or compilation steps, it should contain a `package.json` file compatible with npm or yarn, with a clear build step.
+* In order to submit your work, please open a pull request in this repository, or email your compressed project at `solen@betao.se`
+* If you have any questions or concerns, please send a message to Solen (solen@betao.se) or call him at `+46736270944`

@@ -8,7 +8,7 @@ A column of elements down the table is called a group. There are 18 groups in th
 Below is a hand-drawn example of a periodic table.
 ![*Hand Drawn Periodic Table](https://i.imgur.com/KKv5ECk.png)
 
-You have been provided a list of all known elements in the file `periodic-table-data.json`. The list provides each element's row, column, name, symbol, as well as some other data such as atomic weight or group.
+You have been provided a list of all known elements in the file `periodic-table-data.json`. The list provides each element's row (period), column (group), name, symbol, as well as some other data such as atomic weight or block.
 
 The task is to display a simple periodic table in the browser, using data from the provided file. The elements should be arranged by periods (rows) and groups (columns).
 

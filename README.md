@@ -25,3 +25,4 @@ Scope:
 * In order to submit your work, please email your compressed project at `solen@betao.se`
 * If you are time-constrained, any work-in-progress project can still be submitted and we will take it into account.
 * If you have any questions or concerns, please send a message to Solen (solen@betao.se) or call him at `+46736270944`
+* The code submitted as part of this application is not to be used by Betao AB for any purposes besides review, and it belongs fully to the candidate. Its only use by the company will be to assess the candidate's skills.

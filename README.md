@@ -22,6 +22,6 @@ Scope:
 * When clicking on any element's square, it should **Highlight** (through font, coloring, opacity...) all the elements belonging to the same **block** (p, d, or f). The blocks are also provided in the data.
 * We do not expect the periodic table to be responsive on mobile, but it should render properly on all desktop screens down to `1024x768`.
 * The table can be built using any programming language, library or framework that you consider relevant for the task. The only requirement is that the resulting application runs in any evergreen browser (Firefox, Chrome...). If the project needs additional libraries or compilation steps, it should contain a `package.json` file compatible with npm or yarn, with a clear build step.
-* In order to submit your work, please open a pull request in this repository, or email your compressed project at `solen@betao.se`
+* In order to submit your work, please email your compressed project at `solen@betao.se`
 * If you are time-constrained, any work-in-progress project can still be submitted and we will take it into account.
 * If you have any questions or concerns, please send a message to Solen (solen@betao.se) or call him at `+46736270944`

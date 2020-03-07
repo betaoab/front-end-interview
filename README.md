@@ -20,7 +20,7 @@ With this task, we are looking to evaluate a candidate's general capability in f
     - Atomic Number (e.g: `8`)
     - Name (e.g: `Oxygen`)
 * The design of the periodic table is entirely up to you. You can find hundreds of examples here: https://www.google.com/search?q=periodic+table&tbm=isch
-* When clicking on any element's square, it should **Highlight** (through font, coloring, opacity...) all the elements belonging to the same **block** (p, d, or f). The blocks are also provided in the data.
+* When clicking on any element's square, it should **Highlight** (through font, coloring, opacity...) all the elements belonging to the same **block** (s, p, d, or f). The blocks are also provided in the data.
 
 ### Bonus feature (Optional):
 * Some scientists are suggesting that the [periodic table would make more sense if it was turned upside down](https://www.manchester.ac.uk/discover/news/turn-the-periodic-table--upside-down-argue-scientists/).

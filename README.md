@@ -19,10 +19,10 @@ With this task, we are looking to evaluate a candidate's general capability in f
     - Symbol (e.g: `O`)
     - Atomic Number (e.g: `8`)
     - Name (e.g: `Oxygen`)
-* The design of the periodic table is entirely up to you. You can find hundreds of examples here: https://www.google.com/search?q=periodic+table&tbm=isch
 * When clicking on any element's square, it should **Highlight** (through font, coloring, opacity...) all the elements belonging to the same **block** (s, p, d, or f). The blocks are also provided in the data.
+* The design of the periodic table is entirely up to you. You can find hundreds of examples for inspiration here: https://www.google.com/search?q=periodic+table&tbm=isch
 
-### Bonus feature (Optional):
+### Bonus feature:
 * Some scientists are suggesting that the [periodic table would make more sense if it was turned upside down](https://www.manchester.ac.uk/discover/news/turn-the-periodic-table--upside-down-argue-scientists/).
 * Add a button on the page labeled "Invert" that, when clicked, inverts the table, putting heavier elements at the top and the lightest elements at the bottom. If the button is clicked again, it should put the table back into its regular order. Example of an inverted periodic table: https://d2cbg94ubxgsnp.cloudfront.net/Pictures/780xany/1/9/2/142192_Notts_periodic_with_title_centred.jpg.
 

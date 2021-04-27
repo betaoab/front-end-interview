@@ -6,8 +6,8 @@ The periodic table is an arrangement of all known chemical elements, organized o
 A row of elements across the table is called a period. Each period has a number; from 1 to 8.
 A column of elements down the table is called a group. There are 18 groups in the standard periodic table. Each group has a number: from 1 to 18.
 
-Below is a hand-drawn example of a periodic table.
-![*Hand Drawn Periodic Table](https://i.imgur.com/KKv5ECk.png)
+Below is an example of a periodic table.
+![*Hand Drawn Periodic Table](![image](https://user-images.githubusercontent.com/54904139/116256723-bc782480-a773-11eb-8231-cee54277203b.png))
 
 You have been provided a list of all known elements in the file `periodic-table-data.json`. The list provides each element's row (period), column (group), name, symbol, as well as some other data such as atomic weight or block.
 

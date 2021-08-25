@@ -20,7 +20,7 @@ With this task, we are looking to evaluate a candidate's general capability in f
     - Symbol (e.g: `O`)
     - Atomic Number (e.g: `8`)
     - Name (e.g: `Oxygen`)
-* When clicking on any element's square, it should **Highlight** (through font, coloring, opacity...) all the elements belonging to the same **block** (s, p, d, or f). The blocks are also provided in the data.
+* When clicking on any element's square, it should **Highlight** (through font, coloring, opacity...) all the elements belonging to the same **block** (s, p, d, or f). The blocks are also provided in the data. When clicking on any element while a block is highlighted, it should remove the highlight on the current block and highlight another block, if the element clicked belongs to another block than the currently highlighted block.
 * The design of the periodic table is entirely up to you. You can find hundreds of examples for inspiration here: https://www.google.com/search?q=periodic+table&tbm=isch
 
 ### Bonus feature:

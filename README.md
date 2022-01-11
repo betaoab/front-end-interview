@@ -22,15 +22,15 @@ With this task, we are looking to evaluate a candidate's general capability in f
     - Atomic Number (e.g: `8`)
     - Name (e.g: `Oxygen`)
 * When clicking on any element's square, it should **Highlight** (with a background color) all the elements belonging to the same **block** (s, p, d, or f). 
-* When clicking on any element while a block is highlighted, it should remove the highlight on the current block and highlight the clicked block (or none if the  clicked element is already highlighted).
+* When clicking on any element while a block is highlighted, it should remove the highlight on the highlighted block and highlight the clicked element's block (or none if the clicked element is already part of an highlighted block).
 * The design of the periodic table is entirely up to you. You can find hundreds of examples for inspiration here: https://www.google.com/search?q=periodic+table&tbm=isch
 
-### Bonus feature (P:
+### Bonus feature
 * Some scientists are suggesting that the [periodic table would make more sense if it was turned upside down](https://www.manchester.ac.uk/discover/news/turn-the-periodic-table--upside-down-argue-scientists/).
-* Add a button on the page labeled "Invert" that, when clicked, inverts the table, putting heavier elements at the top and the lightest elements at the bottom. If the button is clicked again, it should put the table back into its regular order. Example of an inverted periodic table: https://d2cbg94ubxgsnp.cloudfront.net/Pictures/780xany/1/9/2/142192_Notts_periodic_with_title_centred.jpg.
+* Add a button on the page labeled "Invert" that, when clicked, inverts the table, putting heavier elements at the top and the lightest elements at the bottom. If the button is clicked again, it should put the table back into its regular order. Inverting a table should preserve block highlights. Example of an inverted periodic table: https://d2cbg94ubxgsnp.cloudfront.net/Pictures/780xany/1/9/2/142192_Notts_periodic_with_title_centred.jpg.
 
 ### Guidelines & Limitations:
-* We do not expect the periodic table to be responsive on mobile, but it should render properly on all desktop screens down to `1024x768`.
+* We do not expect the periodic table to be fully responsive on mobile, but it should render properly on all desktop screens down to `1024x768`.
 * The table can be built using any programming language, library or framework that you consider relevant for the task. The only requirement is that the resulting application runs in any evergreen browser (Firefox, Chrome...). If the project needs additional libraries or compilation steps, it should contain a `package.json` file compatible with npm or yarn, with a clear build step.
 * There should be not backend built for this assignment.
 * If you are time-constrained, any work-in-progress project can still be submitted and we will take it into account.
@@ -38,5 +38,6 @@ With this task, we are looking to evaluate a candidate's general capability in f
 * In order to submit your work, please email your compressed project at `solen@betao.se`
 
 
+--- 
 The code submitted as part of this application is not to be used by Betao AB for any purposes besides review, and it belongs fully to the candidate. Its only use by the company will be to assess the candidate's skills.
 
